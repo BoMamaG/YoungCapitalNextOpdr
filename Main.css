@@ -1,0 +1,91 @@
+header{
+	background: #95DEF1;
+	padding-top:20px;
+	color: #178F3C;
+	border-bottom:#010101 5px solid;
+	
+}
+header h1, h2, .container1, .container2{
+	text-align:center;
+	text-transform:uppercase;
+}
+header h1{
+	font:bold 50px/  1 Arial, Helvetica, sans-serif;
+}
+header h2{
+	margin-left:500px;
+	margin-right:500px;
+	font: bold 10px/  5 Arial, Helvetica, sans-serif;
+	border-style:solid;
+	border-bottom-color:FF0000;
+}
+header h4{
+	font: 20px/  0 Arial, Helvetica, sans-serif;
+	text-align:center;	
+}
+header img{
+	/*width: 100px;
+	height: 100px;*/
+	display:block;
+	width: 25%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.imgdevops img{
+	display:block;
+	width:20%;
+	margin-top:5%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.automation img{
+	border:10px;
+	display:block;
+	width:5%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.container1 h3{
+		font: bold 25px/  1 Arial, Helvetica, sans-serif;
+		text-decoration: underline;
+}
+.container1 h4{
+	font: bold 10px/  4 Arial, Helvetica, sans-serif;
+}
+.container2 table, tr, th, td{
+	border: 2px dotted;
+	padding: 20px;
+}
+
+.container2 table{
+	margin-left:auto;
+	margin-right:auto;
+}
+.container2 th{
+		font: bold 15px/ 0 Arial, Helvetica, sans-serif;
+}
+.container2 td{
+		text-align:center;
+		font: 15px/ 0 Arial, Helvetica, sans-serif;
+}
+
+.test{
+	border:5px;
+	font: 20px/ 2 arial, Helvetica, sans-serif;
+	text-align:center;
+	padding: 0px 0px 200px 0px;
+}
+.test option{
+	text-align:center;
+}
+footer{
+	background:black;
+	padding:10;
+}
+footer img{
+	display:block;
+	width:10%;
+	margin-left:auto;
+}
